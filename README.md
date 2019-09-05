@@ -1,1 +1,1 @@
-# machine-learning-mastery
+# Machine Learning Mastery
